@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://delfer.ru/sitemap.xml
+Sitemap: https://v2.delfer.ru/sitemap.xml
